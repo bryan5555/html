@@ -19,28 +19,6 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
-				<key>ExtensionIdentifier</key>
-				<string>com.apple.AppSSOKerberos.KerberosExtension</string>
-				<key>Hosts</key>
-				<array>
-					<string>https://enterpriseenrollment.aiedu.or.kr/mdm/ios/dep/checkin/</string>
-				</array>
-				<key>PayloadDisplayName</key>
-				<string>Single Sign-On Extensions #1</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.extensiblesso.da857580-f714-4d96-b479-127750733425</string>
-				<key>PayloadType</key>
-				<string>com.apple.extensiblesso</string>
-				<key>PayloadUUID</key>
-				<string>8aea0a96-dc78-499f-9ae6-5aca53953cfd</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>Realm</key>
-				<string>https://enterpriseenrollment.aiedu.or.kr/mdm/ios/dep/checkin/</string>
-				<key>Type</key>
-				<string>Credential</string>
-			</dict>
-			<dict>
 				<key>PayloadDisplayName</key>
 				<string>1Password 7</string>
 				<key>PayloadIdentifier</key>
@@ -64,7 +42,7 @@
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>138f0085-2be7-4b10-ae75-f1f49957194a</string>
+		<string>b995d004-9fd8-4544-980a-0e259236be33</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 	</dict>
