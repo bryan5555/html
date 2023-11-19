@@ -5,6 +5,8 @@
 		<key>PayloadContent</key>
 		<array>
 			<dict>
+				<key>forceEncryptedBackup</key>
+				<true />
 				<key>PayloadDisplayName</key>
 				<string>Restrictions</string>
 				<key>PayloadIdentifier</key>
@@ -12,7 +14,7 @@
 				<key>PayloadType</key>
 				<string>com.apple.applicationaccess</string>
 				<key>PayloadUUID</key>
-				<string>a1e51a11-efec-4e16-998c-a8bac5f08f78</string>
+				<string>62791a32-7c21-4c0c-8fe8-6221b9fda1fc</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
@@ -28,7 +30,7 @@
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>ba00b24a-4428-440e-a241-df735f7b3b84</string>
+		<string>ade8e76c-6ba6-4bb7-bd74-fca85bdca3be</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 	</dict>
