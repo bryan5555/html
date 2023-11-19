@@ -3,7 +3,20 @@
 <plist version="1.0">
 	<dict>
 		<key>PayloadContent</key>
-		<array />
+		<array>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Restrictions</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.applicationaccess.a1e51a11-efec-4e16-998c-a8bac5f08f78</string>
+				<key>PayloadType</key>
+				<string>com.apple.applicationaccess</string>
+				<key>PayloadUUID</key>
+				<string>a1e51a11-efec-4e16-998c-a8bac5f08f78</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
 		<key>PayloadDisplayName</key>
 		<string>Argos MDM Profile 7</string>
 		<key>PayloadIdentifier</key>
@@ -15,7 +28,7 @@
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>02af5624-7019-4560-8e99-30cf5b4efe93</string>
+		<string>ba00b24a-4428-440e-a241-df735f7b3b84</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 	</dict>
