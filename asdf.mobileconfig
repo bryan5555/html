@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>forceEncryptedBackup</key>
+				<true />
+				<key>PayloadDisplayName</key>
+				<string>Restrictions</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.applicationaccess.a1e51a11-efec-4e16-998c-a8bac5f08f78</string>
+				<key>PayloadType</key>
+				<string>com.apple.applicationaccess</string>
+				<key>PayloadUUID</key>
+				<string>62791a32-7c21-4c0c-8fe8-6221b9fda1fc</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>ExtensionIdentifier</key>
+				<string>com.apple.AppSSOKerberos.KerberosExtension</string>
+				<key>Hosts</key>
+				<array>
+					<string>https://enterpriseenrollment.aiedu.or.kr/mdm/ios/dep/checkin/</string>
+				</array>
+				<key>PayloadDisplayName</key>
+				<string>Single Sign-On Extensions #1</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.extensiblesso.da857580-f714-4d96-b479-127750733425</string>
+				<key>PayloadType</key>
+				<string>com.apple.extensiblesso</string>
+				<key>PayloadUUID</key>
+				<string>8aea0a96-dc78-499f-9ae6-5aca53953cfd</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>Realm</key>
+				<string>https://enterpriseenrollment.aiedu.or.kr/mdm/ios/dep/checkin/</string>
+				<key>Type</key>
+				<string>Credential</string>
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>1Password 7</string>
+				<key>PayloadIdentifier</key>
+				<string>com.agilebits.onepassword7.2133377f-7fe3-4cbf-8441-5d67f662d471</string>
+				<key>PayloadType</key>
+				<string>com.agilebits.onepassword7</string>
+				<key>PayloadUUID</key>
+				<string>2133377f-7fe3-4cbf-8441-5d67f662d471</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDisplayName</key>
+		<string>Argos MDM Profile 7</string>
+		<key>PayloadIdentifier</key>
+		<string>APSP:f799223b0-268a-454e-922c-2005c58c65e3</string>
+		<key>PayloadOrganization</key>
+		<string>Apple Inc.</string>
+		<key>PayloadRemovalDisallowed</key>
+		<false />
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>138f0085-2be7-4b10-ae75-f1f49957194a</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
