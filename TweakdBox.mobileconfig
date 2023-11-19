@@ -47,16 +47,14 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
-				<key>Name</key>
-				<string>asdf</string>
 				<key>PayloadDisplayName</key>
-				<string>Single Sign-On Account Payload</string>
+				<string>Setup Assistant #1</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.sso.b18a77e2-ed33-4ed4-909a-827d830481d5</string>
+				<string>com.apple.SetupAssistant.managed.8f5f431a-6b9c-4cb1-a731-031c868337ce</string>
 				<key>PayloadType</key>
-				<string>com.apple.sso</string>
+				<string>com.apple.SetupAssistant.managed</string>
 				<key>PayloadUUID</key>
-				<string>0e499805-a138-4c57-bc76-3e0e93224680</string>
+				<string>5cc9717a-be94-4cf9-8c3e-30c8dcf98e96</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
@@ -74,7 +72,7 @@
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>9a3651b4-c5f7-4de7-90c1-4bd6dab106f4</string>
+		<string>d46a19c0-a949-4954-9917-818a754f2a83</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 	</dict>
