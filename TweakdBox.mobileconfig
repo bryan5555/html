@@ -5,26 +5,52 @@
 		<key>PayloadContent</key>
 		<array>
 			<dict>
-				<key>allowLockScreenTodayView</key>
-				<false />
-				<key>forceAuthenticationBeforeAutoFill</key>
-				<false />
+				<key>allowManagedToWriteUnmanagedContacts</key>
+				<true />
+				<key>allowUnmanagedToReadManagedContacts</key>
+				<true />
+				<key>allowUnpairedExternalBootToRecovery</key>
+				<true />
 				<key>PayloadDisplayName</key>
 				<string>Restrictions</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.applicationaccess.81e76b3e-f7de-4ebd-b7c8-d66cd8afaeb4</string>
+				<string>com.apple.applicationaccess.bafc0344-46ae-459a-be1f-cd4da11af7b0</string>
 				<key>PayloadType</key>
 				<string>com.apple.applicationaccess</string>
 				<key>PayloadUUID</key>
-				<string>48aab5ce-2299-4357-996c-b805ffcf05eb</string>
+				<string>fc1eae93-faac-4cb0-afe3-49678f4f155b</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AccessRights</key>
+				<integer>4096</integer>
+				<key>AssignedManagedAppleID</key>
+				<string>230137@bangsan.sen.ms.kr</string>
+				<key>EnrollmentMode</key>
+				<string>BYOD</string>
+				<key>IdentityCertificateUUID</key>
+				<string>f79223b0-268a-454e-922c-2005c58c65e3</string>
+				<key>PayloadDisplayName</key>
+				<string>MDM</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.mdm.e375c55c-9e70-4102-b5bd-033c0189366d</string>
+				<key>PayloadType</key>
+				<string>com.apple.mdm</string>
+				<key>PayloadUUID</key>
+				<string>e364b557-3575-4d9d-8e53-879fff368b84</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ServerURL</key>
+				<string>https://enterpriseenrollment.aiedu.or.kr/mdm/ios/dep/checkin/</string>
+				<key>Topic</key>
+				<string>com.apple.mgmt.mdm</string>
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
 		<string>TweakBox App store for iOS devices.</string>
 		<key>PayloadDisplayName</key>
-		<string>TweakBox</string>
+		<string>asdf</string>
 		<key>PayloadIdentifier</key>
 		<string>tweakbox.FB15EB39-0F8D-4EDD-B859-FDF50053442TX</string>
 		<key>PayloadOrganization</key>
@@ -34,7 +60,7 @@
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>ac2ee474-9846-40e2-886e-bbb97822bc96</string>
+		<string>aac55d15-40d8-4dcb-89ed-8ec2bcc3b96d</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 	</dict>
