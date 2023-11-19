@@ -3,64 +3,19 @@
 <plist version="1.0">
 	<dict>
 		<key>PayloadContent</key>
-		<array>
-			<dict>
-				<key>allowManagedToWriteUnmanagedContacts</key>
-				<true />
-				<key>allowUnmanagedToReadManagedContacts</key>
-				<true />
-				<key>allowUnpairedExternalBootToRecovery</key>
-				<true />
-				<key>PayloadDisplayName</key>
-				<string>Restrictions</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.applicationaccess.bafc0344-46ae-459a-be1f-cd4da11af7b0</string>
-				<key>PayloadType</key>
-				<string>com.apple.applicationaccess</string>
-				<key>PayloadUUID</key>
-				<string>fc1eae93-faac-4cb0-afe3-49678f4f155b</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AccessRights</key>
-				<integer>4096</integer>
-				<key>AssignedManagedAppleID</key>
-				<string>230137@bangsan.sen.ms.kr</string>
-				<key>EnrollmentMode</key>
-				<string>BYOD</string>
-				<key>IdentityCertificateUUID</key>
-				<string>f79223b0-268a-454e-922c-2005c58c65e3</string>
-				<key>PayloadDisplayName</key>
-				<string>MDM</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.mdm.e375c55c-9e70-4102-b5bd-033c0189366d</string>
-				<key>PayloadType</key>
-				<string>com.apple.mdm</string>
-				<key>PayloadUUID</key>
-				<string>e364b557-3575-4d9d-8e53-879fff368b84</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>ServerURL</key>
-				<string>https://enterpriseenrollment.aiedu.or.kr/mdm/ios/dep/checkin/</string>
-				<key>Topic</key>
-				<string>com.apple.mgmt.mdm</string>
-			</dict>
-		</array>
-		<key>PayloadDescription</key>
-		<string>TweakBox App store for iOS devices.</string>
+		<array />
 		<key>PayloadDisplayName</key>
-		<string>asdf</string>
+		<string>Argos MDM Profile 7</string>
 		<key>PayloadIdentifier</key>
-		<string>tweakbox.FB15EB39-0F8D-4EDD-B859-FDF50053442TX</string>
+		<string>APSP:f799223b0-268a-454e-922c-2005c58c65e3</string>
 		<key>PayloadOrganization</key>
-		<string>TweakBox Inc.</string>
+		<string>Apple Inc.</string>
 		<key>PayloadRemovalDisallowed</key>
 		<false />
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>aac55d15-40d8-4dcb-89ed-8ec2bcc3b96d</string>
+		<string>02af5624-7019-4560-8e99-30cf5b4efe93</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 	</dict>
